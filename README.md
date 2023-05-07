@@ -1,4 +1,4 @@
-# Ratelimit in Gin
+# Ratelimit use Leaky Bucket
 
 This project is a sample for ratelimit using Leaky Bucket. Although the golang official pkg provide a implement with Token Bucket [time/rate](https://pkg.go.dev/golang.org/x/time/rate?tab=doc),
 
